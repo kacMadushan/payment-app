@@ -23,7 +23,7 @@
     "css-loader": "0.28.4",
     "history": "4.7.2",
     "jest": "20.0.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "live-server": "^1.2.1",
